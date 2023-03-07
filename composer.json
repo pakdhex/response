@@ -2,7 +2,7 @@
     "name": "pakdhe/response",
     "description": "Membuat Controller Response dari laravel",
     "type": "library",
-    "license": "MT",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Pakdhe\\Response\\": "src/"
